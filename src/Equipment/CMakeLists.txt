@@ -1,0 +1,1 @@
+add_library(equipment equipment.cpp)
