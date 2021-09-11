@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <alarm.h>
 
 void OpenEquipmentSubmenu();
 void OpenAlarmSubmenu();
