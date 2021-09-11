@@ -14,10 +14,10 @@ int main(int argc, char const *argv[])
     do
     {
         std::cout << "\n";
-        std::cout << "1 - Equipment CRUD\n";
-        std::cout << "2 - Alarm CRUD\n";
-        std::cout << "3 - Alarm Interface\n";
-        std::cout << "4 - CRUD again? :(\n\n";
+        std::cout << "1 - Insert equipment\n";
+        std::cout << "2 - Insert alarm\n";
+        std::cout << "3 - Alarm interface\n";
+        std::cout << "4 - CRUD Interface\n\n";
 
         std::cout << "Choose option: ";
         std::cin >> option;   
